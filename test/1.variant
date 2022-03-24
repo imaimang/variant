@@ -1,0 +1,5 @@
+namespace go models
+
+class User{
+    string UserName
+}
